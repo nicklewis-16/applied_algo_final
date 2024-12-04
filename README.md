@@ -3,7 +3,7 @@
 Repository for FINM 35910 Applied Algorithmic Trading Final Project, taught by Christopher Gersch.
 
 
-Idea generation
+Idea generation for final project
 
 - Pairs trading on a specific sector of the S&P.
 - Finding co-integrated pairs by optimizing entry, exit threshold and window size using calibration and test period (test-train split 80/20). 
